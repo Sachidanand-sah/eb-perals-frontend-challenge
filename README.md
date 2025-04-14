@@ -2,6 +2,11 @@
 
 This repository contains the submission for the ebPearls Frontend Challenge.
 
+screenshots
+      
+![Screenshot 2025-04-14 215621](https://github.com/user-attachments/assets/6faf4bc3-769d-4cc9-9f5e-ce0da889b57b)
+
+
 ## Project Structure
 
 The assignment is divided into three main tasks across three days:
